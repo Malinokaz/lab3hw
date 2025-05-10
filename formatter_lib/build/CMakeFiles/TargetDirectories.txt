@@ -1,3 +1,0 @@
-/home/vladimir/malinokaz/workspace/hw/lab03/lab03/formatter_lib/build/CMakeFiles/formatter.dir
-/home/vladimir/malinokaz/workspace/hw/lab03/lab03/formatter_lib/build/CMakeFiles/edit_cache.dir
-/home/vladimir/malinokaz/workspace/hw/lab03/lab03/formatter_lib/build/CMakeFiles/rebuild_cache.dir
