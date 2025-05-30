@@ -1,7 +1,6 @@
 cmake_minimum_required(VERSION 3.4)
 project(hello_world)
 
-add_subdirectory(../formatter_ex_lib build_formatter_ex)
 
 set(CMAKE_CXX_STANDARD 11)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
